@@ -6,4 +6,6 @@ Welcome to my projects!
 
 ## 🌐 Web Development
 
--[Single page CV](https://github.com/buildwithtaku/single-page_cv)
+- [Single page CV](https://github.com/buildwithtaku/single-page_cv)
+
+- [QR code component](https://github.com/buildwithtaku/QR-code-component)
