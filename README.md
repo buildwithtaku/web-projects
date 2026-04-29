@@ -1,10 +1,6 @@
-# 🚀 My Projects Portfolio
+## 🌐 Web projects
 
-Welcome to my projects!
-
-## 📂 Projects
-
-## 🌐 Web Development
+## 🧩 Beginner Projects
 
 - [Single page CV](https://github.com/buildwithtaku/single-page_cv)
 
