@@ -6,4 +6,4 @@ Welcome to my projects!
 
 ## 🌐 Web Development
 
--[Single page CV](https://github.com/buildwithtaku/single-page_cv
+-[Single page CV](https://github.com/buildwithtaku/single-page_cv)
