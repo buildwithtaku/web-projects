@@ -7,3 +7,5 @@
 - [QR code component](https://github.com/buildwithtaku/QR-code-component)
 
 - [Blog Preview](https://github.com/buildwithtaku/blog-preview-card-main)
+
+- [Social link profile](https://github.com/buildwithtaku/social-link-profile) 
