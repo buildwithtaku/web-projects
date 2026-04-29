@@ -1,2 +1,7 @@
-# myprojects
-All projects worked on my spare time
+# 🚀 My Projects Portfolio
+
+Welcome to my projects!
+
+## 📂 Projects
+
+## 🌐 Web Development
